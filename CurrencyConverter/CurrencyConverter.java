@@ -24,7 +24,7 @@ public class CurrencyConverter {
                 System.out.print("Enter Amount: ");
                 double amount = sc.nextDouble();
                 
-                String apiKey = "114523b033238c6786b3b96a";
+                String apiKey = "YOUR API KEY";
                 
                 String url =
                         "https://v6.exchangerate-api.com/v6/"
