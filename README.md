@@ -1,6 +1,6 @@
-# CODSOFT Java Development Internship
+# CODSOFT Java Programming Virtual Internship
 
-This repository contains the projects completed during the **CodSoft Java Development Internship**. The projects demonstrate core Java programming concepts including Object-Oriented Programming (OOP), file handling, user input validation, loops, conditional statements, and data management.
+This repository contains the projects completed during the **CodSoft Java Programming Virtual Internship**. The projects demonstrate core Java programming concepts including Object-Oriented Programming (OOP), file handling, user input validation, loops, conditional statements, and data management.
 
 ## Technologies Used
 
@@ -133,4 +133,4 @@ LinkedIn: www.linkedin.com/in/riya-pande-8a7242302
 
 ### Internship Program
 
-Completed as part of the **CodSoft Java Development Internship Program**.
+Completed as part of the **CodSoft Java Programming Virtual Internship Program**.
